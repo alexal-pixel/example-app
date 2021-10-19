@@ -27,7 +27,6 @@
                     <input type="text" class="form-control" name="stok" id="floatingInput">
                     <label for="floatingInput">Stok Produk</label>
                 </div>
-
                   <button type="submit" class="btn btn-primary">Update Data</button>
             </div>
           </div>
